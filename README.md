@@ -37,7 +37,7 @@ When you run the application, the following options will be displayed:
 - Delete a file
 - Exit
 
-#### Enter your Choice
+#### Enter your Choice:
 
 ### Available Operations
 
